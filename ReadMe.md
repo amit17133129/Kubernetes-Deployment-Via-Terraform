@@ -198,7 +198,7 @@ All set !! Finally we have to deploy code. First we will run terraform init.
 
 Now all the resources is deployed. In the below image you can see that the namespaces, deployments and HPA has been successfully deployed.
 <p align="center">
-  <img width="800" height="350" src="https://miro.medium.com/max/1400/1*l-cGmaICqWgaRcqikspIdw.png">
+  <img width="800" height="275" src="https://miro.medium.com/max/1400/1*l-cGmaICqWgaRcqikspIdw.png">
 </p>
 
 I hope you had liked this way of representing the article. Please like and comment for future interesting integrations 😊😊.
