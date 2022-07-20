@@ -1,4 +1,7 @@
-## Kubernetes Deployment Via Terraform
+# Kubernetes Deployment Via Terraform
+<p align="center">
+  <img width="800" height="450" src="https://c4.wallpaperflare.com/wallpaper/160/957/173/container-ship-wallpaper-preview.jpg">
+</p>
 
 Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.
 
